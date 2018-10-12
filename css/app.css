@@ -1,0 +1,71 @@
+/* .column, .columns{
+  border: 1px solid red;
+}
+
+.row{
+
+  border: 1px solid green;
+} */
+.cocina-body {
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+
+.text_white{
+color: white;
+}
+
+.text_aling_left{
+  text-align: right;
+  line-height: 2;
+}
+.coment{
+  margin-bottom: 2px;
+}
+.column-body{
+  padding-left: 3px;
+  padding-right: 3px;
+  /* margin-left: 0;
+  margin-right: 0; */
+}
+
+.imagen_post{
+  width: 100%;
+}
+.navegacion-menu>li{
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.rightpost{
+background-color: #F9DEDE;
+
+}
+
+.leftcolumn{
+  /* background-color: #E6D8E9; */
+    background-color: rgba(235, 222, 240, 0.75);
+}
+
+.leftcontent{
+  margin-top: 20px;
+}
+
+.container{
+/* background-color: #85929E; */
+  background-color: rgba(133, 146, 158, 0.75);
+}
+
+.separador{
+  border-color: white;
+}
+.vertical-line {
+  border-right:1px solid white;
+}
+
+.contenido-favoritos{
+  padding: 0;
+}
